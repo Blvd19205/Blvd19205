@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blvd19205
+- 👋 Hi, I’m @Ibtehaz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning vanilla javascript
 - 📫 How to reach me; emal me at ibtehaz.mahmood@gmail.com
